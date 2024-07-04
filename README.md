@@ -22,4 +22,6 @@ Python, Pandas, NumPy, Matplotlib, Scikit-Learn
 7. **Visualize Results**: Plot actual data points and the regression line.
 8. **Environment**: This analysis is performed using JupyterLite.
 
+#### for any informations : laboutesse@gmail.com
+
 
